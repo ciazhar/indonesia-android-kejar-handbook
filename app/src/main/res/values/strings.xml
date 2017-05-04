@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Indonesia Android Kejar</string>
+    <string name="title_beranda">Beranda</string>
+    <string name="title_materi">Materi</string>
+    <string name="title_kuis">Kuis</string>
+    <!--<string name="title_obrolan">Obrolan</string>-->
+    <!--<string name="title_pengaturan">Pengaturan</string>-->
+    <string name="title_activity_main">Indonesia Android Kejar</string>
+
+</resources>
