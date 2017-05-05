@@ -28,7 +28,10 @@
         <activity android:name=".PertanyaanKetujuh" />
         <activity android:name=".PertanyaanKedelapan" />
         <activity android:name=".PertanyaanKesembilan" />
-        <activity android:name=".PertanyaanKesepuluh"></activity>
+        <activity android:name=".PertanyaanKesepuluh" />
+        <activity android:name=".MateriBasic" />
+        <activity android:name=".MateriView" />
+        <activity android:name=".MateriJava"></activity>
     </application>
 
 </manifest>
