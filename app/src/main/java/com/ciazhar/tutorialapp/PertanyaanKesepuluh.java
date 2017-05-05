@@ -30,7 +30,7 @@ public class PertanyaanKesepuluh extends AppCompatActivity {
 
                 if(radioButtonKeempat.isChecked()){
                     Snackbar snackbar = Snackbar
-                            .make(coordinatorLayout, "Anda Benar", Snackbar.LENGTH_LONG)
+                            .make(coordinatorLayout, "LOL!!! :v ", Snackbar.LENGTH_LONG)
                             .setAction("Kembali ke Beranda", new View.OnClickListener() {
                                 @Override
                                 public void onClick(View view) {

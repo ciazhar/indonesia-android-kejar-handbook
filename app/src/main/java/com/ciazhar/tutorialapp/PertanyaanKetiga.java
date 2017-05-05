@@ -23,7 +23,7 @@ public class PertanyaanKetiga extends AppCompatActivity {
 
         coordinatorLayout = (CoordinatorLayout) findViewById(R.id.activity_pertanyaan_ketiga);
         btnSimpleSnackbar = (Button) findViewById(R.id.button_pertanyaan_ketiga);
-        radioButtonKeempat = (RadioButton) findViewById(R.id.radio_button_keempat_pertanyaan_ketiga);
+        radioButtonKeempat = (RadioButton) findViewById(R.id.radio_button_ketiga_pertanyaan_ketiga);
         btnSimpleSnackbar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

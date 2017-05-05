@@ -13,7 +13,7 @@ public class PertanyaanKelima extends AppCompatActivity {
 
     private CoordinatorLayout coordinatorLayout;
     private Button btnSimpleSnackbar;
-    private RadioButton radioButtonKeempat;
+    private RadioButton radioButtonKedua;
 
 
     @Override
@@ -23,12 +23,12 @@ public class PertanyaanKelima extends AppCompatActivity {
 
         coordinatorLayout = (CoordinatorLayout) findViewById(R.id.activity_pertanyaan_kelima);
         btnSimpleSnackbar = (Button) findViewById(R.id.button_pertanyaan_kelima);
-        radioButtonKeempat = (RadioButton) findViewById(R.id.radio_button_keempat_pertanyaan_kelima);
+        radioButtonKedua = (RadioButton) findViewById(R.id.radio_button_kedua_pertanyaan_kelima);
         btnSimpleSnackbar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 
-                if(radioButtonKeempat.isChecked()){
+                if(radioButtonKedua.isChecked()){
                     Snackbar snackbar = Snackbar
                             .make(coordinatorLayout, "Anda Benar", Snackbar.LENGTH_LONG)
                             .setAction("Lanjutkan", new View.OnClickListener() {
