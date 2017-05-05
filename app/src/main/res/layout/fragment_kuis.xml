@@ -5,9 +5,42 @@
     android:padding="16dp"
     tools:context="com.ciazhar.tutorialapp.Kuis">
 
-    <TextView
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Kuis" />
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:id="@+id/image_kuis_satu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/quiz"
+            android:layout_alignParentTop="true"
+            />
+        <TextView
+            android:id="@+id/pertanyaan_kuis_satu"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Apakah Anda Siap untuk Kuis ???"
+            android:textSize="40sp"
+            android:textColor="@android:color/black"
+            android:layout_margin="16dp"
+            android:layout_below="@id/image_kuis_satu"
+            />
+
+
+        <Button
+            android:id="@+id/button_kuis_satu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:background="@color/colorPrimary"
+            android:textColor="@android:color/background_light"
+            android:text="Continue"
+            android:textSize="20sp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            />
+    </RelativeLayout>
 
 </FrameLayout>

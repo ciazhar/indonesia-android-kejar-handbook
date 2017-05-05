@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#2ecc71</color>
-    <color name="colorPrimaryDark">#27ae60</color>
+    <color name="colorPrimary">#71d234</color>
+    <color name="colorPrimaryDark">#3e970c</color>
     <color name="colorAccent">@android:color/holo_green_light</color>
 </resources>
