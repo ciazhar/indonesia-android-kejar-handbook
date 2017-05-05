@@ -20,7 +20,15 @@
             android:name=".MainActivity"
             android:label="@string/title_activity_main" />
         <activity android:name=".PertanyaanPertama" />
-        <activity android:name=".PertanyaanKedua"></activity>
+        <activity android:name=".PertanyaanKedua" />
+        <activity android:name=".PertanyaanKetiga" />
+        <activity android:name=".PertanyaanKeempat" />
+        <activity android:name=".PertanyaanKelima" />
+        <activity android:name=".PertanyaanKeenam" />
+        <activity android:name=".PertanyaanKetujuh" />
+        <activity android:name=".PertanyaanKedelapan" />
+        <activity android:name=".PertanyaanKesembilan" />
+        <activity android:name=".PertanyaanKesepuluh"></activity>
     </application>
 
 </manifest>

@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.RadioButton;
 
-public class PertanyaanKedua extends AppCompatActivity {
+public class PertanyaanKelima extends AppCompatActivity {
 
     private CoordinatorLayout coordinatorLayout;
     private Button btnSimpleSnackbar;
@@ -19,11 +19,11 @@ public class PertanyaanKedua extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_pertanyaan_kedua);
+        setContentView(R.layout.activity_pertanyaan_kelima);
 
-        coordinatorLayout = (CoordinatorLayout) findViewById(R.id.activity_pertanyaan_kedua);
-        btnSimpleSnackbar = (Button) findViewById(R.id.button_pertanyaan_kedua);
-        radioButtonKeempat = (RadioButton) findViewById(R.id.radio_button_keempat_pertanyaan_kedua);
+        coordinatorLayout = (CoordinatorLayout) findViewById(R.id.activity_pertanyaan_kelima);
+        btnSimpleSnackbar = (Button) findViewById(R.id.button_pertanyaan_kelima);
+        radioButtonKeempat = (RadioButton) findViewById(R.id.radio_button_keempat_pertanyaan_kelima);
         btnSimpleSnackbar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -34,7 +34,7 @@ public class PertanyaanKedua extends AppCompatActivity {
                             .setAction("Lanjutkan", new View.OnClickListener() {
                                 @Override
                                 public void onClick(View view) {
-                                    Intent intent =  new Intent(PertanyaanKedua.this, PertanyaanKetiga.class);
+                                    Intent intent =  new Intent(PertanyaanKelima.this, PertanyaanKeenam.class);
                                     startActivity(intent);
                                 }
                             });
