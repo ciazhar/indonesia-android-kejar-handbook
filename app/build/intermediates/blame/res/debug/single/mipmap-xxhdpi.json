@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/ciazhar/Documents/Android/TutorialApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/ciazhar/Documents/Android/TutorialApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

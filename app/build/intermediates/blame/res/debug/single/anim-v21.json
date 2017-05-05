@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

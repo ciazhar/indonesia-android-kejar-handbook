@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

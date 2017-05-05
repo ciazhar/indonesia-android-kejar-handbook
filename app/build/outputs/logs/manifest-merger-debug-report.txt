@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:5:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/ciazhar/.android/build-cache/230d5fbd474759d0d8139554439ed4c218dad51e/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.0] /home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/ciazhar/.android/build-cache/89419c312cdd84a2979c47f409acf7496579d267/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] /home/ciazhar/.android/build-cache/d3c79cb1adb033c5de138b57848c9e26c25be329/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/ciazhar/.android/build-cache/9e5033c166ce8789bebd5ae6d0569802002bf78e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /home/ciazhar/.android/build-cache/cc01532f6768ac67a56a4be65400ab2f61de4a7c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /home/ciazhar/.android/build-cache/91bc59b2425f6105159c3630ec70e41418aff1f8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/ciazhar/.android/build-cache/9f89bd20c3a69e7cbacd4988d3e2c9c240f32f1c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/ciazhar/.android/build-cache/982f6381fc881bbeb116e4ef2ef07c2bc5ec067e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/ciazhar/.android/build-cache/57a7835907c5011e459f23e24738c778434c4e9b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /home/ciazhar/.android/build-cache/e6e1f75ab94dcd0d2a8261002b6f486093a9e6cc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/ciazhar/.android/build-cache/45c656b62eb4e5545520c135c05a201ca3753398/output/AndroidManifest.xml:26:5-20
+	android:label
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.ciazhar.tutorialapp.SplashScreen
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.ciazhar.tutorialapp.MainActivity
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:19:9-21:59
+	android:label
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:20:13-41
+activity#com.ciazhar.tutorialapp.PertanyaanPertama
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:22:9-55
+	android:name
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:22:19-52
+activity#com.ciazhar.tutorialapp.PertanyaanKedua
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:23:9-53
+	android:name
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:23:19-50
+activity#com.ciazhar.tutorialapp.PertanyaanKetiga
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:24:9-54
+	android:name
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:24:19-51
+activity#com.ciazhar.tutorialapp.PertanyaanKeempat
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:25:9-55
+	android:name
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:25:19-52
+activity#com.ciazhar.tutorialapp.PertanyaanKelima
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:26:9-54
+	android:name
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:26:19-51
+activity#com.ciazhar.tutorialapp.PertanyaanKeenam
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:27:9-54
+	android:name
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:27:19-51
+activity#com.ciazhar.tutorialapp.PertanyaanKetujuh
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:28:9-55
+	android:name
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:28:19-52
+activity#com.ciazhar.tutorialapp.PertanyaanKedelapan
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:29:9-57
+	android:name
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:29:19-54
+activity#com.ciazhar.tutorialapp.PertanyaanKesembilan
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:30:9-58
+	android:name
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:30:19-55
+activity#com.ciazhar.tutorialapp.PertanyaanKesepuluh
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:31:9-57
+	android:name
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:31:19-54
+activity#com.ciazhar.tutorialapp.MateriBasic
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:32:9-49
+	android:name
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:32:19-46
+activity#com.ciazhar.tutorialapp.MateriView
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:33:9-48
+	android:name
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:33:19-45
+activity#com.ciazhar.tutorialapp.MateriJava
+ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:34:9-57
+	android:name
+		ADDED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml:34:19-45
+uses-sdk
+INJECTED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/ciazhar/.android/build-cache/230d5fbd474759d0d8139554439ed4c218dad51e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.0] /home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/ciazhar/.android/build-cache/89419c312cdd84a2979c47f409acf7496579d267/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/ciazhar/.android/build-cache/7dd066bc4b007b068b3d7098b4cbaa220fdf783d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] /home/ciazhar/.android/build-cache/d3c79cb1adb033c5de138b57848c9e26c25be329/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/ciazhar/.android/build-cache/9e5033c166ce8789bebd5ae6d0569802002bf78e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.0] /home/ciazhar/.android/build-cache/cc01532f6768ac67a56a4be65400ab2f61de4a7c/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /home/ciazhar/.android/build-cache/91bc59b2425f6105159c3630ec70e41418aff1f8/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/ciazhar/.android/build-cache/9f89bd20c3a69e7cbacd4988d3e2c9c240f32f1c/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/ciazhar/.android/build-cache/982f6381fc881bbeb116e4ef2ef07c2bc5ec067e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/ciazhar/.android/build-cache/57a7835907c5011e459f23e24738c778434c4e9b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] /home/ciazhar/.android/build-cache/e6e1f75ab94dcd0d2a8261002b6f486093a9e6cc/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/ciazhar/.android/build-cache/45c656b62eb4e5545520c135c05a201ca3753398/output/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] /home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] /home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/ciazhar/.android/build-cache/89419c312cdd84a2979c47f409acf7496579d267/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/ciazhar/.android/build-cache/7dd066bc4b007b068b3d7098b4cbaa220fdf783d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] /home/ciazhar/.android/build-cache/d3c79cb1adb033c5de138b57848c9e26c25be329/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/ciazhar/.android/build-cache/9e5033c166ce8789bebd5ae6d0569802002bf78e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] /home/ciazhar/.android/build-cache/cc01532f6768ac67a56a4be65400ab2f61de4a7c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /home/ciazhar/.android/build-cache/91bc59b2425f6105159c3630ec70e41418aff1f8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/ciazhar/.android/build-cache/9f89bd20c3a69e7cbacd4988d3e2c9c240f32f1c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/ciazhar/.android/build-cache/982f6381fc881bbeb116e4ef2ef07c2bc5ec067e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/ciazhar/.android/build-cache/57a7835907c5011e459f23e24738c778434c4e9b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /home/ciazhar/.android/build-cache/e6e1f75ab94dcd0d2a8261002b6f486093a9e6cc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/ciazhar/.android/build-cache/45c656b62eb4e5545520c135c05a201ca3753398/output/AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] /home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] /home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/AndroidManifest.xml:26:9-47

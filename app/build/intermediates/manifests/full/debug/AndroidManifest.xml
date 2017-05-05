@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ciazhar.tutorialapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="25" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.0" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.ciazhar.tutorialapp.SplashScreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.ciazhar.tutorialapp.MainActivity"
+            android:label="@string/title_activity_main" />
+        <activity android:name="com.ciazhar.tutorialapp.PertanyaanPertama" />
+        <activity android:name="com.ciazhar.tutorialapp.PertanyaanKedua" />
+        <activity android:name="com.ciazhar.tutorialapp.PertanyaanKetiga" />
+        <activity android:name="com.ciazhar.tutorialapp.PertanyaanKeempat" />
+        <activity android:name="com.ciazhar.tutorialapp.PertanyaanKelima" />
+        <activity android:name="com.ciazhar.tutorialapp.PertanyaanKeenam" />
+        <activity android:name="com.ciazhar.tutorialapp.PertanyaanKetujuh" />
+        <activity android:name="com.ciazhar.tutorialapp.PertanyaanKedelapan" />
+        <activity android:name="com.ciazhar.tutorialapp.PertanyaanKesembilan" />
+        <activity android:name="com.ciazhar.tutorialapp.PertanyaanKesepuluh" />
+        <activity android:name="com.ciazhar.tutorialapp.MateriBasic" />
+        <activity android:name="com.ciazhar.tutorialapp.MateriView" />
+        <activity android:name="com.ciazhar.tutorialapp.MateriJava" />
+    </application>
+
+</manifest>

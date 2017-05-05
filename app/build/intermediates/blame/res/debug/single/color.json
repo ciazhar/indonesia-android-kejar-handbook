@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/ciazhar/.android/build-cache/9b3b875e37e4c7b62f56bf16c4b8603709578113/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/ciazhar/.android/build-cache/962e1e35f04a099b8873081e8db6edd414addf5d/output/res/color/abc_primary_text_material_light.xml"
+    }
+]

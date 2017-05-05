@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/build/intermediates/res/merged/debug/menu/navigation.xml",
+        "source": "/home/ciazhar/Documents/Android/LayoutSample/TutorialApp/app/src/main/res/menu/navigation.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/TutorialApp/app/build/intermediates/res/merged/debug/menu/navigation.xml",
+        "source": "/home/ciazhar/Documents/Android/TutorialApp/app/src/main/res/menu/navigation.xml"
+    },
+    {
+        "merged": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/build/intermediates/res/merged/debug/menu/navigation.xml",
+        "source": "/home/ciazhar/Documents/Android/IndonesiaAndroidKejar/app/src/main/res/menu/navigation.xml"
+    }
+]

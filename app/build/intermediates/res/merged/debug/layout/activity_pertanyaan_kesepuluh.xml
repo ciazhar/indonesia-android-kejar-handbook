@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_pertanyaan_kesepuluh"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ciazhar.tutorialapp.PertanyaanKesepuluh">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp"
+        >
+        <TextView
+            android:id="@+id/pertanyaan"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Best practice apa yang akan kamu lakukan setelah lulus IAK ?"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:layout_margin="16dp"
+            />
+
+        <android.support.v7.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/card_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:foreground="?attr/selectableItemBackground"
+            android:layout_centerInParent="true"
+            >
+
+            <RadioGroup
+                android:id="@+id/radio_button_grup_pertanyaan_kesepuluh"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_marginTop="30dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginBottom="30dp"
+                android:orientation="vertical"
+                >
+                <RadioButton
+                    android:id="@+id/radio_button_pertama_pertanyaan_kesepuluh"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_margin="5dp"
+                    android:text="Jadi Developer Aplikasi Android"
+                    android:textSize="20dp"
+                    />
+                <RadioButton
+                    android:id="@+id/radio_button_kedua_pertanyaan_kesepuluh"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:text="Jadi Programmer Aplikasi Android"
+                    android:textSize="20dp"
+                    />
+                <RadioButton
+                    android:id="@+id/radio_button_ketiga_pertanyaan_kesepuluh"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:text="Jadi Designer Aplikasi Android"
+                    android:textSize="20dp"
+                    />
+                <RadioButton
+                    android:id="@+id/radio_button_keempat_pertanyaan_kesepuluh"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:text="Ternak Lele :V"
+                    android:textSize="20dp"
+                    />
+            </RadioGroup>
+
+        </android.support.v7.widget.CardView>
+
+        <Button
+            android:id="@+id/button_pertanyaan_kesepuluh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:background="@color/colorPrimary"
+            android:textColor="@android:color/background_light"
+            android:text="Check"
+            android:textSize="15sp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="50dp"
+            />
+    </RelativeLayout>
+</android.support.design.widget.CoordinatorLayout>
