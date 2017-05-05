@@ -16,11 +16,11 @@
         android:icon="@drawable/ic_assignment_black_24dp"
         android:title="@string/title_kuis" />
     <!--<item-->
-        <!--android:id="@+id/navigation_obrolan"-->
-        <!--android:icon="@drawable/ic_obrolan"-->
-        <!--android:title="@string/title_obrolan" />-->
+    <!--android:id="@+id/navigation_obrolan"-->
+    <!--android:icon="@drawable/ic_obrolan"-->
+    <!--android:title="@string/title_obrolan" />-->
     <!--<item-->
-        <!--android:id="@+id/navigation_pengaturan"-->
-        <!--android:icon="@drawable/ic_pengaturan"-->
-        <!--android:title="@string/title_pengaturan" />-->
+    <!--android:id="@+id/navigation_pengaturan"-->
+    <!--android:icon="@drawable/ic_pengaturan"-->
+    <!--android:title="@string/title_pengaturan" />-->
 </menu>
